@@ -1,0 +1,12 @@
+.friend {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.friend:hover {
+  text-decoration: underline;
+}
+
+#show-response {
+  display: none;
+}
